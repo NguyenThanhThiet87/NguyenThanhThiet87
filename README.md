@@ -77,17 +77,30 @@
 
 ## 🧩 Featured Projects
 
-<a href="https://github.com/NguyenThanhThiet87/WebBanThuocBVTV">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=WebBanThuocBVTV&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/NguyenThanhThiet87/WebBanThuocBVTV" title="WebBanThuocBVTV">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=WebBanThuocBVTV&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NguyenThanhThiet87/HeThongQLNhaTro" title="HeThongQLNhaTro">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=HeThongQLNhaTro&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/NguyenThanhThiet87/HeThongQLNhaTro">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=HeThongQLNhaTro&theme=merko" />
-</a>
+<p align="center">
+  <a href="https://github.com/NguyenThanhThiet87/YOLO_RVT_30Per" title="YOLO_RVT_30Per">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=YOLO_RVT_30Per&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/NguyenThanhThiet87/YOLO_RVT_30Per">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenThanhThiet87&repo=YOLO_RVT_30Per&theme=gruvbox" />
-</a>
+<details>
+  <summary><b>✨ Quick overview</b></summary>
+  <br/>
+  <ul>
+    <li><b>WebBanThuocBVTV</b> — Web app quản lý/bán hàng (products, orders, customers).</li>
+    <li><b>HeThongQLNhaTro</b> — Quản lý nhà trọ: phòng, hợp đồng, khách thuê, hoá đơn.</li>
+    <li><b>YOLO_RVT_30Per</b> — Object detection với YOLO: training, evaluation, inference pipeline.</li>
+  </ul>
+</details>
 
 ---
 
